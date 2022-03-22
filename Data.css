@@ -1,0 +1,30 @@
+  div{
+      padding: 16px 32px;
+     border: 4px outset red;
+  background-color: lightblue;
+  text-align: center;
+  }
+
+input[type=text] {
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  background-color: #f1f1f1;
+ }  
+textarea {  
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  background-color: #f1f1f1;
+  }
+select {
+  border: res;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+} 
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
